@@ -178,7 +178,7 @@ export default function LinhaDoTempo() {
       ) : (
         <div className="video-container">
           <h2>Eu te amo muito meu amor 💖</h2>
-          <div style={{ padding: '75% 0 0 0', position: 'relative' }}>
+          <div style={{ width:'100%', padding: '130% 0 0 0', position: 'relative' }}>
             <iframe
               ref={iframeRef}
               src="https://player.vimeo.com/video/1053797439?h=eaaaa2b39d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
